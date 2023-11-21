@@ -1,5 +1,5 @@
 # Hello, world!
 
-I studing in Netology
+I`m studying in Netology
 
 21.11.2023
